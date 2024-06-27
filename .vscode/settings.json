@@ -1,0 +1,7 @@
+{
+    "cmake.sourceDirectory": "C:/Users/samet/Documents/PlatformIO/Projects/test-project/.pio/libdeps/esp32doit-devkit-v1/Unity",
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "random": "cpp"
+    }
+}
